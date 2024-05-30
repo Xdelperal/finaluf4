@@ -1,0 +1,3 @@
+<?
+echo "Dani moreoo\n";
+?>
