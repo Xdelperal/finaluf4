@@ -1,3 +1,3 @@
 <?
-echo "Mario Vaquerizo\n";
+echo " Amancio ortega\n";
 ?>
